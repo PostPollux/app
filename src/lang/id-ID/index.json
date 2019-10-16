@@ -275,6 +275,7 @@
   "file_library": "Pustaka Berkas",
   "file_type_not_accepted": "{filename} tidak dapat diunggah karena bukan jenis yang valid untuk bidang ini.",
   "file_upload": "Unggah Berkas",
+  "file_download": "Download",
   "forgot_password": "Lupa Kata Sandi",
   "greater_than": "Lebih besar dari",
   "greater_than_equal": "Lebih besar dari atau sama dengan",

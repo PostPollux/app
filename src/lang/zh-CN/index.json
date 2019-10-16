@@ -275,6 +275,7 @@
   "file_library": "文件管理",
   "file_type_not_accepted": "{filename} 不能上传，对该字段，它不是一个有效的文件类型。",
   "file_upload": "上传单个或多个文件",
+  "file_download": "Download",
   "forgot_password": "忘记密码",
   "greater_than": "大于",
   "greater_than_equal": "大于或等于",

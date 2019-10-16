@@ -275,6 +275,7 @@
   "file_library": "Biblioteka plików",
   "file_type_not_accepted": "{filename} nie może zostać wgrany. Nie jest to prawidłowy typ pliku dla tego pola.",
   "file_upload": "Wgrany plik(i)",
+  "file_download": "Download",
   "forgot_password": "Zapomniałem hasła",
   "greater_than": "Większe od",
   "greater_than_equal": "Większe lub równe od",

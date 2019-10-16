@@ -15,6 +15,10 @@
 				text-background
 				color="black"
 				:options="{
+					download: {
+						text: $t('file_download'),
+						icon: 'file_download'
+					},
 					deselect: {
 						text: $t('deselect'),
 						icon: 'clear'
@@ -207,6 +211,9 @@ export default {
 		this.onSearchInput = _.debounce(this.onSearchInput, 200);
 	},
 	methods: {
+		downloadFile() {
+			window.open(this.image.data.full_url);
+		},
 		saveUpload(response) {
 			this.image = response.data.data;
 			// We know that the primary key of directus_files is called `id`

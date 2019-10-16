@@ -275,6 +275,7 @@
   "file_library": "Filbibliotek",
   "file_type_not_accepted": "{filename} kan ikke lastes opp. Filformatet er ikke gyldig for dette feltet.",
   "file_upload": "Last opp fil(er)",
+  "file_download": "Download",
   "forgot_password": "Glemt passord",
   "greater_than": "Større enn",
   "greater_than_equal": "Større enn eller lik",

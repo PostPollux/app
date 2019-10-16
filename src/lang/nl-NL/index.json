@@ -275,6 +275,7 @@
   "file_library": "Bestandsbibliotheek",
   "file_type_not_accepted": "{filename} kan niet geüpload worden. Het is een ongeldig bestandstype voor dit veld.",
   "file_upload": "Upload Bestand(en)",
+  "file_download": "Download",
   "forgot_password": "Wachtwoord vergeten",
   "greater_than": "Groter dan",
   "greater_than_equal": "Groter dan of gelijk aan",

@@ -275,6 +275,7 @@
   "file_library": "Galeria de Arquivos",
   "file_type_not_accepted": "{filename} não pode ser enviado. Não é um tipo de arquivo válido para este campo.",
   "file_upload": "Enviar Arquivo(s)",
+  "file_download": "Download",
   "forgot_password": "Esqueci minha Senha",
   "greater_than": "Maior",
   "greater_than_equal": "Maior ou igual a",

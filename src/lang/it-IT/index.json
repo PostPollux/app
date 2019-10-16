@@ -275,6 +275,7 @@
   "file_library": "Libreria File",
   "file_type_not_accepted": "{filename} non può essere caricato. Non è un tipo di file valido per questo campo.",
   "file_upload": "Carica File",
+  "file_download": "Download",
   "forgot_password": "Ha dimenticato la password",
   "greater_than": "Più grande di",
   "greater_than_equal": "Maggiore o uguale a",

@@ -275,6 +275,7 @@
   "file_library": "檔案庫",
   "file_type_not_accepted": "無法上傳非正確檔案格式的 {filename} 。",
   "file_upload": "上傳檔案",
+  "file_download": "Download",
   "forgot_password": "忘記密碼",
   "greater_than": "大於",
   "greater_than_equal": "大於等於",

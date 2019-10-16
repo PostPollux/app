@@ -275,6 +275,7 @@
   "file_library": "Dosya Kütüphanesi",
   "file_type_not_accepted": "{filename} sunucuya yüklenemez çünkü bu alan için geçerli bir veri tipinde değil.",
   "file_upload": "Dosya Yükle",
+  "file_download": "Download",
   "forgot_password": "Şifremi Unuttum",
   "greater_than": "Büyüktür",
   "greater_than_equal": "Büyük veya eşittir",

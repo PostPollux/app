@@ -275,6 +275,7 @@
   "file_library": "Složka souborů",
   "file_type_not_accepted": "{filename} nemůže být nahrán. Nejedná se o správný typ souboru pro toto pole.",
   "file_upload": "Nahrát soubor(y)",
+  "file_download": "Download",
   "forgot_password": "Zapomenuté heslo",
   "greater_than": "Větší než",
   "greater_than_equal": "Větší nebo rovno než",

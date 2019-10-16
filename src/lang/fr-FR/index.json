@@ -275,6 +275,7 @@
   "file_library": "Fichiers",
   "file_type_not_accepted": "{filename} ne peut être téléversé. Le type du fichier n’est pas supporté pour ce champ.",
   "file_upload": "Téléverser un(des) fichier(s)",
+  "file_download": "Download",
   "forgot_password": "Mot de passe oublié",
   "greater_than": "Plus grand que",
   "greater_than_equal": "Plus grand ou égal à",

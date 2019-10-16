@@ -275,6 +275,7 @@
   "file_library": "Библиотека Файлов",
   "file_type_not_accepted": "{filename} не может быть загружен. Это недопустимый тип файла для этого поля.",
   "file_upload": "Загрузить файл(ы)",
+  "file_download": "Download",
   "forgot_password": "Забыли пароль",
   "greater_than": "Больше",
   "greater_than_equal": "Больше или равно",
